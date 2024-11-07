@@ -37,6 +37,9 @@ The system architecture integrates multiple components to deliver a secure, user
 5. **Similarity Score Calculation**: Compares real-time embeddings with stored embeddings to determine authentication.
 6. **Intrusion Detection**: Detects abnormal login behavior, such as unusual login times, to flag intruder attempts.
 
+   ![sas final](https://github.com/user-attachments/assets/8e034644-3f42-4679-afcd-2d4d0cca7d98)
+
+
 ## Installation
 1. **Clone the Repository**:
 ```
