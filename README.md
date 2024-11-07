@@ -1,4 +1,7 @@
 # Secure Multi-Factor Authentication System
+##### Najeeb Saiyed
+##### Vabhav Kapil
+##### Kota Srinivas
 
 ## Overview
 This project presents a secure multi-factor authentication system that combines traditional password authentication with advanced biometric recognition and AI-driven liveness detection. The system utilizes face recognition, password hashing, and time-sensitive embedding to enhance security against common cyber threats like spoofing, replay attacks, and unauthorized access attempts.
