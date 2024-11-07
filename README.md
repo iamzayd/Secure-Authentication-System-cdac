@@ -1,5 +1,3 @@
-# Secure-Authentication-System-cdac
-
 # Secure Multi-Factor Authentication System
 
 ## Overview
